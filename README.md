@@ -28,3 +28,6 @@ I'm a 7th-semester **BS IT student** at the University of Education, Lahore, pas
 My coding fuel is a mix of chai ☕ and late-night debugging sessions, where I conquer bugs with creativity and persistence!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sahrish-anfal&color=brightgreen)
+
+![Static Badge](https://img.shields.io/badge/:badgeContent)
+
