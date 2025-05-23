@@ -1,6 +1,6 @@
 ![Profile Banner](https://raw.githubusercontent.com/sahri16/sahri16/main/Github.gif)
 
-
+# Welcome to My Github Profile✨
 
 # 👋 Hi, I'm Sahrish Anfal!
 
@@ -22,9 +22,9 @@ I'm an 8th-semester BS IT student at the University of Education, Lahore. I'm pa
 
 ## 📫 Get in Touch
 - **Email**: [sahrishanfal@gmail.com]
-- **LinkedIn**: [your-linkedin-profile]
-- **Portfolio**: [[your-portfolio-link](https://sahri16.github.io/sahrish-anfal-portfolio)]
-- **Twitter/X**: [[your-twitter-handle](https://www.linkedin.com/in/sahrish-anfal/)]
+- **LinkedIn**: [[your-linkedin-profile](https://www.linkedin.com/in/sahrish-anfal/)]
+- **Portfolio**: [[Portfolio-link](https://sahri16.github.io/sahrish-anfal-portfolio)]
+- **Twitter/X**: [[X-handle](https://x.com/sahrish_anfal)]
 
 ## ⚡ Fun Fact
 My coding fuel is a mix of chai ☕ and late-night debugging sessions, where I conquer bugs with creativity and persistence!
