@@ -1,3 +1,7 @@
+
+
+
+
 # 👋 Hi, I'm Sahrish Anfal!
 
 I'm a 7th-semester **BS IT student** at the University of Education, Lahore, passionate about **front-end development**, **UI/UX design**, and creating delightful web experiences. I love blending creativity with code to build user-friendly applications. Currently, I'm working on innovative projects like **Event Snap Pro** (a virtual photo booth) and **TezRaabta** (a map-based emergency roadside assistance app).
